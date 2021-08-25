@@ -1,5 +1,7 @@
 const request = require('request');
 
+require('dotenv').config()
+
 'use strict';
 
 // Imports dependencies and set up http server
